@@ -300,18 +300,6 @@ docker-compose up
 <br/>
 
 ---
-
-<br/>
-
-<p align="center">
-  Built with curiosity &nbsp;·&nbsp; runs on your machine &nbsp;·&nbsp; owned by you
-  <br/><br/>
-  <a href="https://www.reddit.com/user/akhilpanja/">Reddit</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG/issues">Issues</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG/pulls">Pull Requests</a>
-  <br/><br/>
   <sub><i>The future of retrieval-augmented AI is local — no internet required.</i></sub>
 </p>
 
