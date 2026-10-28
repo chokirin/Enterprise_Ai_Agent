@@ -12,7 +12,6 @@
 
 > **Open for Enterprise.**
 > We build custom, production-grade RAG systems for organizations — same 9-layer pipeline, tuned to your data, your permissions, your stack. Deployed in days, not months. At a fraction of what closed-source vendors charge.
-> **[→ See what we can build for you](https://cortex-rag-beta.vercel.app/)**
 
 <br/>
 
